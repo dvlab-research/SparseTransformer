@@ -4,7 +4,7 @@
 
 **SpTr** has been used by the following works:
 
-* **Spherical Transformer for LiDAR-based 3D Recognition (CVPR 2023)**: \[Paper\] [\[Code\]](https://github.com/dvlab-research/SphereFormer)
+* **Spherical Transformer for LiDAR-based 3D Recognition (CVPR 2023)**: [\[Paper\]](https://github.com/dvlab-research/SphereFormer/releases/download/v1.0/paper_sphereformer.pdf) [\[Code\]](https://github.com/dvlab-research/SphereFormer)
 
 * **Stratified Transformer for 3D Point Cloud Segmentation (CVPR 2022)**: [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lai_Stratified_Transformer_for_3D_Point_Cloud_Segmentation_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/dvlab-research/Stratified-Transformer)
 
