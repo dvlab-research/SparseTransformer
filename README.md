@@ -1,8 +1,8 @@
 # SpTr: PyTorch Spatially Sparse Transformer Library
 
-This library provides a **fast**, **memory-efficient**, and **easy-to-use** implementation for sparse transformer with **varying token numbers** (e.g., window transformer for 3D point cloud).
+**SparseTransformer (SpTr)** provides a **fast**, **memory-efficient**, and **easy-to-use** implementation for sparse transformer with **varying token numbers** (e.g., window transformer for 3D point cloud).
 
-This library has been used by the following works:
+**SpTr** has been used by the following works:
 
 * **Spherical Transformer for LiDAR-based 3D Recognition (CVPR 2023)**: \[Paper\] [\[Code\]](https://github.com/dvlab-research/SphereFormer)
 
