@@ -67,7 +67,7 @@ If you find this project useful, please consider citing
 @inproceedings{lai2023spherical,
   title={Spherical Transformer for LiDAR-based 3D Recognition},
   author={Lai, Xin and Chen, Yukang and Lu, Fanbin and Liu, Jianhui and Jia, Jiaya},
-  booktitle={CVPR},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2023}
 }
 ```
