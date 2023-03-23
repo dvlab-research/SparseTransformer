@@ -53,7 +53,7 @@ output_feats = output_tensor.query_feats
 
 ## Authors
 
-Xin Lai (a Ph.D student at CSE CUHK) - Initial CUDA implementation, maintainance.
+Xin Lai (a Ph.D student at CSE CUHK, xinlai@cse.cuhk.edu.hk) - Initial CUDA implementation, maintainance.
 
 Fanbin Lu (a Ph.D student at CSE CUHK) - Improve CUDA implementation, maintainance.
 
