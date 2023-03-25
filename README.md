@@ -12,8 +12,8 @@
 ### Install Dependency
 ```
 pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
-pip install torch_scatter
-pip install torch_geometric
+pip install torch_scatter==2.0.9
+pip install torch_geometric==1.7.2
 ```
 
 ### Compile sptr
