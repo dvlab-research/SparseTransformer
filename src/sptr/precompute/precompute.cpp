@@ -1,5 +1,5 @@
 #include <vector>
-#include <THC/THC.h>
+#include <ATen/ATen.h>
 #include <torch/serialize/tensor.h>
 #include <ATen/cuda/CUDAContext.h>
 #include "precompute_cuda_kernel.h"
